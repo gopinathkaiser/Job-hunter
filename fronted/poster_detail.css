@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+   
+}
+.poster_form{
+    min-height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.poster_details{
+    background-color:#61a3dd;
+    padding: 10%;
+    border-radius: 72px;
+}
+.button{
+    border-radius: 20px;
+    padding:32px
+}
